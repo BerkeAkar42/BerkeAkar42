@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Frajsoftwares.com%2Fsoftware-development&psig=AOvVaw2bBGXu-9M5Kqm1X49wbREm&ust=1735074459846000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjZxZnmvooDFQAAAAAdAAAAABAm)
+[![MasterHead](https://drive.google.com/file/d/1pFzOPyL6jBQs6sH16Y9ih3NqL_ycLEub/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Berke Akar</h1>
 <h3 align="center">A passionate developer from turkey</h3>
 
