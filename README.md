@@ -13,6 +13,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkeakar42&show_icons=true&locale=en&layout=compact" alt="berkeakar42" /></p>
 <br>
+<br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkeakar42&show_icons=true&locale=en" alt="berkeakar42" /></p>
+<br>
+<br>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkeakar42&" alt="berkeakar42" /></p>
