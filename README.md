@@ -1,12 +1,9 @@
 [![MasterHead](https://github.com/BerkeAkar42/BerkeAkar42/blob/ac2df5bb6feeb0b8fc7a8ae3daed4ec0c6b22e21/Images/SoftwaareDevelopment.png)
+![](https://komarev.com/ghpvc/?username=BerkeAkar42&color=blue)
 <h1 align="center">Hi 👋, I'm Berke Akar</h1>
 <h3 align="center">A passionate developer from turkey</h3>
 
-<div align="center">
- <a href="https://github.com/CagatayAkkas">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Çağatay+Akkaş+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
- </a>
-</div>
+
 
 - 📫 How to reach me **berkeakar4234@gmail.com**
 
@@ -22,7 +19,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
