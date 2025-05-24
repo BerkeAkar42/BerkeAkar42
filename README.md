@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/BerkeAkar42/BerkeAkar42/blob/ac2df5bb6feeb0b8fc7a8ae3daed4ec0c6b22e21/Images/SoftwaareDevelopment.png)
+[![MasterHead](https://github.com/BerkeAkar42/BerkeAkar42/blob/ac2df5bb6feeb0b8fc7a8ae3daed4ec0c6b22e21/Images/SoftwaareDevelopment.png)]
 ![](https://komarev.com/ghpvc/?username=BerkeAkar42&color=blue)
 <h1 align="center">Hi 👋, I'm Berke Akar</h1>
 <h3 align="center">A passionate developer from turkey</h3>
