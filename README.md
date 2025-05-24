@@ -1,4 +1,3 @@
-![MasterHead]()
 ![](https://komarev.com/ghpvc/?username=BerkeAkar42&color=blue)
 <h1 align="center">Hi 👋, I'm Berke Akar</h1>
 <h3 align="center">A passionate developer from turkey</h3>
